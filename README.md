@@ -7,6 +7,8 @@ hi...
  
  after the installation is complete you are ready to download the video
  
+ just run the file "youtube_downloader.py"
+ 
  this is programmed to download in the high quality
  
  this will save in the current directory where the file is stored.

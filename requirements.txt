@@ -1,3 +1,3 @@
 pytube
 youtube-dl
-
+pyqt5
